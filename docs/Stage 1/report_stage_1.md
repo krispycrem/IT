@@ -2,7 +2,7 @@
 
 У папці img/Stage 1 знаходяться 12 UML діаграм до лабораторної роботи при проектуванні та специфікації програмних систем:
 
-- **_Class_diagram.png_** містить діаграму класів. Містить класи "Table", "Database", "Column",  також "AbstractRestController" та його видозміни ("TableManagementRestController", "ReadWriteTableRestController", "DataManagementRestController").
+- **_Class diagram.png_** містить діаграму класів. Містить класи "Table", "Database", "Column",  також "AbstractRestController" та його видозміни ("TableManagementRestController", "ReadWriteTableRestController", "DataManagementRestController").
 - **_Components.png_** містить діаграму компонентів для розподіленої системи.
 - **_Sequence_Сreate_from_file.png_** - діаграма послідовностей для створення бази даних з файлу.
 - **_Sequence_Edit_Value.png_** - діаграма послідовностей для редагування значень в таблиці.
