@@ -1,6 +1,6 @@
-#### Звіт до 11 етапу
+## Звіт до 11 етапу
 
-REST web-сервіси + HATEOAS
+#### REST web-сервіси + HATEOAS
 
 REST web-сервіси реалізовані на фреймворку FastAPI. Ієрархічна структура має наступний вигляд: /database/{databaseId}/table/{tableId}. Реалізований REST API сервер, HTTP-запити протестовані у Postman.
 
