@@ -10,7 +10,7 @@
 - [Додавання рядка](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/addrow.png)
 - [Дедуплікація рядків](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/deduptable.png)
 - [Перегляд та редагування таблиці](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/view_and_edit_table.png)
-- [Отримання даних БД](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/getdump.png)
+- [Отримання даних з БД](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/getdump.png)
 - [Відтворення БД з даних](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/create_from_dump.png)
 
 HTTP-запити протестовані у [Postman](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/Postman.png). 
