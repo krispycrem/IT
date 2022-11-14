@@ -4,4 +4,4 @@
 
 REST web-сервіси реалізовані на фреймворку FastAPI. Ієрархічна структура має наступний вигляд: /database/{databaseId}/table/{tableId}. Реалізований REST API сервер, HTTP-запити протестовані у Postman. 
 
-Файл openapispec.yaml був написаний використовуючи програму OpenAPI Generator. Використовуючи інтерфейс OpenAPI, було згенеровано загальну структуру проекту (див. мал. openapi_spec.png). 
+Файл openapispec.yaml був написаний використовуючи програму OpenAPI Generator. Використовуючи інтерфейс OpenAPI, було згенеровано [загальну структуру проекту](https://github.com/krispycrem/IT/blob/main/img/Stage%2013/openapi_spec.png). 
