@@ -1,6 +1,6 @@
-#### Звіт до 14 етапу 
+## Звіт до 14 етапу 
 
-REST web-сервіси. Реалізація клієнтського проєкту за OpenAPI Specification.
+#### REST web-сервіси. Реалізація клієнтського проєкту за OpenAPI Specification.
 
 REST web-сервіси реалізовані на фреймворку FastAPI. Ієрархічна структура має наступний вигляд: /database/{databaseId}/table/{tableId}. Реалізований REST API сервер, HTTP-запити протестовані у Postman.
 
