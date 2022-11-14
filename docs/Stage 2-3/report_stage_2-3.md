@@ -5,12 +5,12 @@
 зокрема для перевірки рядків на рівність та знаходження повторюваних рядків за ідентифікатором. 
 Інтерфейс користувача забезпечується за допомогою реалізованої фронтенд-частини. 
 Операції, реалізовані у фронтенд частині:
-- Створення БД
-- Створення таблиці 
-- Додавання рядка
-- Дедуплікація рядків
-- Перегляд та редагування таблиці
-- Отримання даних БД
-- Відтворення БД з даних
+- [Створення БД](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/createdb.png)
+- [Створення таблиці](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/createtable.png)
+- [Додавання рядка](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/addrow.png)
+- [Дедуплікація рядків](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/deduptable.png)
+- [Перегляд та редагування таблиці](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/view_and_edit_table.png)
+- [Отримання даних БД](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/getdump.png)
+- [Відтворення БД з даних](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/create_from_dump.png)
 
-HTTP-запити протестовані у Postman (див. Postman.png). 
+HTTP-запити протестовані у [Postman](https://github.com/krispycrem/IT/blob/main/img/Stage%202-3/Postman.png). 
