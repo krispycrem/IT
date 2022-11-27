@@ -102,7 +102,7 @@ REST web-сервіси реалізовані на фреймворку FastAPI
 
 REST web-сервіси реалізовані на фреймворку FastAPI. Ієрархічна структура має наступний вигляд: /database/{databaseId}/table/{tableId}. Реалізований REST API сервер, HTTP-запити протестовані у Postman.
 
-Файл openapispec.yaml був написаний використовуючи програму OpenAPI Generator.
+Файл openapispec.yaml був створений для генерації стабу серверної частини додатка. 
 
 ## Звіт до 13 етапу
 
